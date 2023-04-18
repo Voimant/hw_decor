@@ -1,0 +1,16 @@
+Tue Apr 18 17:54:08 2023Вызвана функция <function test_2.<locals>.hello_world at 0x0000020AA23EEA70> аргументы *args=(), **kwargs={}
+
+Результат функции: Hello World
+
+Tue Apr 18 17:54:08 2023Вызвана функция <function test_2.<locals>.summator at 0x0000020AA23EEE60> аргументы *args=(2, 2), **kwargs={}
+
+Результат функции: 4
+
+Tue Apr 18 17:54:08 2023Вызвана функция <function test_2.<locals>.div at 0x0000020AA23EECB0> аргументы *args=(6, 2), **kwargs={}
+
+Результат функции: 3.0
+
+Tue Apr 18 17:54:08 2023Вызвана функция <function test_2.<locals>.summator at 0x0000020AA23EEE60> аргументы *args=(4.3,), **kwargs={'b': 2.2}
+
+Результат функции: 6.5
+
